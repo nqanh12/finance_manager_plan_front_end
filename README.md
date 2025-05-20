@@ -57,7 +57,7 @@ Finance Manager Plan là ứng dụng quản lý tài chính cá nhân hiện đ
 
 1. **Clone repository**
 ```bash
-git clone https://github.com/your-username/finance_manager_plan_front_end.git
+git clone https://github.com/nqanh12nqanh12/finance_manager_plan_front_end.git
 ```
 
 2. **Di chuyển vào thư mục dự án**
@@ -105,11 +105,11 @@ Dự án được phát hành dưới giấy phép MIT. Xem file [LICENSE](LICEN
 
 ## 📞 Liên hệ
 
-- **Tác giả**: [Tên của bạn]
-- **Email**: [Email của bạn]
-- **GitHub**: [Link GitHub của bạn]
+- **Tác giả**: [Nguyễn Quốc Anh]
+- **Email**: [nqanh120503@gmail.com]
+- **GitHub**: [https://github.com/nqanh12]
 
 ---
 <div align="center">
-Made with ❤️ by [Tên của bạn]
+Made with ❤️ by [Nguyễn Quốc Anh]
 </div>
